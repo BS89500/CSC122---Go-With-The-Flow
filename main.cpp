@@ -9,7 +9,7 @@ int main() {
   // Your driver program goes here
   std::map<int, float> sources_and_sinks;
   sources_and_sinks[0] = 100.0;
-  sources_and_sinks[4] = 100.0;
+  //sources_and_sinks[4] = 100.0;
   //std::cout << (++sources_and_sinks.begin())->second << std::endl;
   int initial_temperature = 10;
   int number_of_sections = 5;
